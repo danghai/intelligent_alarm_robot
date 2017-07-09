@@ -33,4 +33,4 @@ all the inputs and outputs from our system.
 -  Announce the current time
 -  Set to announce the time every hour.
 
-Link Video Demo:[Video Demo](https://www.youtube.com/watch?v=lEhJg26N7zI&t=169s)
+Link Video Demo: [Video Demo](https://www.youtube.com/watch?v=lEhJg26N7zI&t=169s)
